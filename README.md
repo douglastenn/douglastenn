@@ -3,7 +3,7 @@
 <h3>🧑🏽‍💻 About Me </h3>
 
 - 💜 &nbsp; Developing software to solve practical and social problems to make the world a litle bit better.
-- 💼 &nbsp; Working as a Software Engineer @ Conta Simples
+- 💼 &nbsp; Working as a Software Engineer @ Pluto TV
 - 📝 &nbsp; I will start writing some articles on [Dev.to](https://dev.to/douglastenn)
 - 🌱 &nbsp; Learning more about Kubernetes, Terraform and concurrency with go
 - 📫 &nbsp; How to reach me: douglas.develop@gmail.com
