@@ -13,7 +13,7 @@
 
 <h3>⭐️ Favorite Stack</h3>
 
-- 💻 &nbsp; Go | Kotlin | TypeScript
+- 💻 &nbsp; Go | Kotlin | Java
 - 💾 &nbsp; MongoDB | Postgresql | DynamoDB
 - 📚 &nbsp; Kafka | RabbitMQ | SQS | SNS
 - 📨 &nbsp; Redis
