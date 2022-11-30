@@ -21,15 +21,6 @@
 
 <br/>
 
-[![douglastenn GitHub Stats](https://github-readme-stats.vercel.app/api?username=douglastenn&show_icons=true)](https://github.com/douglastenn)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglastenn" alt="douglastenn" /></p>
-
-[![](https://komarev.com/ghpvc/?username=douglastenn&color=gray&label=Profile%20Views)](https://github.com/douglastenn/douglastenn)
-[![](https://img.shields.io/github/followers/douglastenn?label=GitHub%20Followers)](https://github.com/douglastenn)
-
-<br/>
-
 <h3>✉️ Connect with me:</h3>
 
 <p align="left">
